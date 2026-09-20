@@ -5,139 +5,178 @@ Full-Stack Developer | PHP/Laravel • React/Node.js • WordPress • Shopify
 </h3>
 
 <p align="center">
-I build scalable web applications, SaaS products, e-commerce platforms,
-business systems and custom integrations for startups, businesses and agencies.
+I build SaaS products, e-commerce platforms, business applications,
+APIs, integrations and high-performance websites for startups,
+businesses and agencies.
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/samran-php-wordpress-mern-website-developer/">LinkedIn</a>
-•
-<a href="mailto:samranwebdev2000@gmail.com">Email Me</a>
-•
-<a href="https://github.com/webdevsamran">GitHub</a>
+<a href="https://www.linkedin.com/in/samran-php-wordpress-mern-website-developer/">
+  LinkedIn
+</a>
+&nbsp;•&nbsp;
+<a href="mailto:samranwebdev2000@gmail.com">
+  Hire Me
+</a>
+&nbsp;•&nbsp;
+<a href="https://github.com/webdevsamran">
+  GitHub
+</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Full-Stack Developer for Real Business Problems
 
-I'm a Full-Stack Developer with 5+ years of experience building and delivering
-web applications for real-world business requirements.
+I'm a **Full-Stack Developer with 5+ years of experience** building,
+improving and maintaining web applications for businesses and clients.
 
-I've worked across the complete development lifecycle — requirement gathering,
-architecture, frontend and backend development, database design, testing,
-deployment, debugging and long-term improvements.
+I've completed **50+ projects** across e-commerce, SaaS, content
+management, internal business systems, dashboards and custom web
+applications.
 
-My freelance work has included **50+ projects** across e-commerce, SaaS,
-content management, internal business systems and custom web applications.
+My work covers the complete software-development lifecycle:
 
-I primarily work with:
+**Requirements → Architecture → Development → Testing → Deployment → Maintenance**
+
+I work primarily with:
 
 **PHP • Laravel • JavaScript • TypeScript • React • Node.js • Express.js •
-MySQL • MongoDB • GraphQL • WordPress • Shopify • Tailwind CSS**
+MySQL • MongoDB • PostgreSQL • GraphQL • WordPress • WooCommerce • Shopify**
 
-I also build Python-based developer tooling and contribute to established
-open-source projects.
+Beyond client development, I build developer tools and contribute fixes
+to established open-source projects including **Strapi, Ruff, Symfony,
+nerdctl and other production codebases**.
 
 ---
 
-## 🚀 How I Can Help Your Business
+## 💼 How I Can Help Your Business
 
-### Custom Web Applications & SaaS
+### 🚀 Custom Web Applications & SaaS
 
-I can design and build complete applications from idea to production,
-including authentication, dashboards, APIs, admin systems, reporting,
-billing/business logic and third-party integrations.
+Need more than a template website?
 
-### PHP & Laravel Development
+I can build complete applications including:
 
-I work on:
-
-- Custom Laravel applications
-- REST and GraphQL APIs
-- Existing Laravel project improvements
-- Authentication and authorization
-- Database architecture
+- SaaS platforms
+- Business management systems
 - Admin dashboards
-- Performance optimization
-- Bug fixing and maintenance
-- Legacy PHP modernization
+- Client portals
+- Internal tools
+- Multi-role applications
+- Reporting systems
+- Subscription-based applications
+- Custom business workflows
 
-### React / MERN Development
+From database design and backend APIs to responsive frontend interfaces,
+I can handle the complete implementation.
 
-I build modern interactive applications using:
-
-- React
-- TypeScript
-- Node.js
-- Express.js
-- MongoDB
-- REST APIs
-- GraphQL
-
-This includes dashboards, SaaS interfaces, internal tools and data-driven
-applications.
-
-### WordPress Development
+### ⚙️ PHP & Laravel Development
 
 I can help with:
 
-- Custom WordPress websites
-- Theme customization
-- Plugin customization
-- Custom functionality
-- WooCommerce
-- API integrations
-- Performance improvements
-- Existing-site troubleshooting
+- Custom Laravel applications
+- Existing Laravel applications
+- REST APIs
+- GraphQL APIs
+- Authentication & authorization
+- Admin dashboards
+- Background jobs
+- Database architecture
+- Third-party integrations
+- Performance optimization
+- Refactoring
+- Bug fixing
+- Legacy PHP modernization
 
-### Shopify Development
+### ⚛️ React / MERN Development
 
-I work on Shopify storefronts and customizations including:
+I build modern applications using:
 
-- Store setup and development
+**React • TypeScript • Node.js • Express.js • MongoDB • PostgreSQL**
+
+Typical work includes:
+
+- SaaS dashboards
+- Interactive interfaces
+- Admin panels
+- Data-heavy applications
+- API-driven frontends
+- Business applications
+- Real-time features
+- Existing React application improvements
+
+### 🛒 Shopify Development
+
+I can work on:
+
+- Shopify store development
 - Theme customization
 - Custom sections
 - Storefront improvements
+- Product/catalog functionality
 - Third-party integrations
-- E-commerce functionality
-- Performance and UX improvements
+- Custom business logic
+- Performance improvements
+- UX improvements
+- Existing-store troubleshooting
 
-### API & Third-Party Integrations
+### 🌐 WordPress & WooCommerce
 
-I can connect applications with external platforms and services using:
+I provide:
+
+- Custom WordPress development
+- WooCommerce development
+- Theme development/customization
+- Plugin customization
+- Custom functionality
+- API integrations
+- Performance optimization
+- Security improvements
+- Existing-site maintenance
+- Bug fixing
+
+### 🔌 APIs & Integrations
+
+Need multiple systems to work together?
+
+I can build integrations involving:
 
 - REST APIs
 - GraphQL
 - Webhooks
 - OAuth
-- Payment services
-- CRMs
+- Payment gateways
+- CRM systems
 - Analytics platforms
-- External business systems
+- External SaaS products
+- Third-party business systems
+- Data synchronization
 
 ---
 
-## 🏗️ Types of Systems I've Worked On
+## 🏗️ Systems I've Worked On
 
-My project experience includes:
+My experience includes projects such as:
 
 - E-commerce platforms
+- SaaS applications
 - Point-of-Sale systems
 - Chart of Accounts / accounting systems
 - Employee management systems
 - Learning platforms
 - Content management systems
 - University admission systems
-- Blogging and publishing platforms
+- Client portals
+- Blogging & publishing platforms
 - Business dashboards
-- Custom client portals
 - AI-related applications
-- Finance and cybersecurity websites
+- Finance platforms
+- Cybersecurity websites
+- Custom internal business tools
 
-For client projects, I focus on the part that matters after launch too:
-**maintainability, security, performance and the ability to extend the system
-without rebuilding everything.**
+I focus not only on getting features working, but also on making
+applications **maintainable, scalable, secure and easier to extend**.
 
 ---
 
@@ -151,9 +190,13 @@ without rebuilding everything.**
 
 `JavaScript` `TypeScript` `React` `Tailwind CSS` `SCSS`
 
-### Databases & APIs
+### Databases
 
-`MySQL` `MongoDB` `PostgreSQL` `REST` `GraphQL`
+`MySQL` `PostgreSQL` `MongoDB`
+
+### APIs & Integration
+
+`REST` `GraphQL` `Webhooks` `OAuth`
 
 ### CMS & E-commerce
 
@@ -161,95 +204,169 @@ without rebuilding everything.**
 
 ### Engineering
 
-`Git` `GitHub` `CI/CD` `Testing` `API Design` `Debugging`
-`Performance Optimization`
+`Git` `GitHub` `CI/CD` `Testing` `Debugging`
+`API Design` `Performance Optimization`
+`Security` `Code Review`
 
 ---
 
-## 🔬 Open-Source Engineering
+# 🌍 Open-Source Contributions
 
-Alongside client development, I build engineering tools focused on
-correctness, reproducibility and software reliability.
+I contribute bug fixes, tests, compatibility improvements, developer
+experience changes and documentation to established open-source projects.
 
-| Project | What It Does |
+I prefer showing **accepted engineering work** rather than simply listing
+technologies I claim to know.
+
+| Project | Contribution |
 |---|---|
-| **[api-verity-lab](https://github.com/webdevsamran/api-verity-lab)** | API contract governance, breaking-change detection, schema-driven testing, runtime drift detection, traffic replay and performance regression for OpenAPI, AsyncAPI, GraphQL and gRPC. |
-| **[devrepro-doctor](https://github.com/webdevsamran/devrepro-doctor)** | Diagnoses "works on my machine" problems using reproducibility snapshots, environment comparison and safe repair recommendations. |
-| **[tooltrace-bench](https://github.com/webdevsamran/tooltrace-bench)** | Vendor-neutral benchmarking of AI agents using deterministic execution traces and real tool-use workflows. |
-| **[local-ai-hardware-bench](https://github.com/webdevsamran/local-ai-hardware-bench)** | Reproducible benchmarking of local AI runtimes across CPUs, GPUs, NPUs and edge accelerators. |
+| **[Strapi](https://github.com/strapi/strapi)** | Fixed broken internationalization placeholders affecting the Strapi admin UI. **[Merged PR →](https://github.com/strapi/strapi/pull/27383)** |
+| **[Ruff](https://github.com/astral-sh/ruff)** | Improved documentation for the `ANN401` rule so its actual behavior around arguments and return types is accurately represented. **[Merged PR →](https://github.com/astral-sh/ruff/pull/28334)** |
+| **[Symfony](https://github.com/symfony/symfony)** | Fixed HtmlSanitizer handling for valid RFC 6068 encoded line breaks in hostless URLs and improved security API documentation. **[PR #65662 →](https://github.com/symfony/symfony/pull/65662)** • **[PR #65657 →](https://github.com/symfony/symfony/pull/65657)** |
+| **[nerdctl](https://github.com/containerd/nerdctl)** | Fixed containerd 2.x restart-policy integration tests that were being silently skipped by an obsolete containerd 1.x requirement. **[Merged PR →](https://github.com/containerd/nerdctl/pull/5185)** |
+| **[Soup](https://github.com/MakazhanAlpamys/Soup)** | Corrected GPU monitoring so training reports actual peak GPU allocation rather than between-step allocation, with regression coverage. **[Merged PR →](https://github.com/MakazhanAlpamys/Soup/pull/652)** |
+| **[Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI)** | Added user-facing text-normalization controls to the web interface and request pipeline with unit tests. **[Merged PR →](https://github.com/remsky/Kokoro-FastAPI/pull/523)** |
+| **[wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide)** | Expanded Python compatibility test coverage for t-string behavior. **[Merged PR →](https://github.com/wemake-services/wemake-python-styleguide/pull/3794)** |
+| **[iCalendar](https://github.com/collective/icalendar)** | Improved fuzzing reproducibility by preserving complete execution parameters in generated fuzzer logs. **[Merged PR →](https://github.com/collective/icalendar/pull/1760)** |
 
-These projects reflect how I approach commercial development as well:
-measure what actually happened, automate verification where possible, and avoid
-making assumptions when systems can provide evidence.
+### More Accepted Contributions
+
+I've also had contributions merged into projects covering AI,
+developer tooling, search, web applications and infrastructure.
+
+**[Whoosh](https://github.com/priya-sundaram-dev/whoosh)**  
+Multiple merged contributions covering Python typing, index APIs and
+runnable synchronization examples:
+
+[PR #172](https://github.com/priya-sundaram-dev/whoosh/pull/172) •
+[PR #175](https://github.com/priya-sundaram-dev/whoosh/pull/175) •
+[PR #194](https://github.com/priya-sundaram-dev/whoosh/pull/194) •
+[PR #200](https://github.com/priya-sundaram-dev/whoosh/pull/200) •
+[PR #201](https://github.com/priya-sundaram-dev/whoosh/pull/201)
+
+**[FastDocParse](https://github.com/pranjalparmar/fastdocparse)**  
+Added CLI schema-validation functionality and improved project
+documentation/demo experience:
+
+[PR #58](https://github.com/pranjalparmar/fastdocparse/pull/58) •
+[PR #76](https://github.com/pranjalparmar/fastdocparse/pull/76)
+
+**[Trainite](https://github.com/pytorch-ignite/trainite)**  
+Improved extensibility of model and dataset configuration types:
+
+[PR #173](https://github.com/pytorch-ignite/trainite/pull/173)
+
+**[Agentic Chat](https://github.com/charandeep-reddy/agentic-chat)**  
+Multiple merged contributions across TypeScript/Next.js application
+features, accessibility, exports, UI behavior and test coverage:
+
+[PR #35](https://github.com/charandeep-reddy/agentic-chat/pull/35) •
+[PR #36](https://github.com/charandeep-reddy/agentic-chat/pull/36) •
+[PR #37](https://github.com/charandeep-reddy/agentic-chat/pull/37) •
+[PR #42](https://github.com/charandeep-reddy/agentic-chat/pull/42) •
+[PR #43](https://github.com/charandeep-reddy/agentic-chat/pull/43) •
+[PR #44](https://github.com/charandeep-reddy/agentic-chat/pull/44) •
+[PR #45](https://github.com/charandeep-reddy/agentic-chat/pull/45) •
+[PR #46](https://github.com/charandeep-reddy/agentic-chat/pull/46)
+
+These contributions demonstrate something I value in client work as
+well:
+
+> **Understand an unfamiliar codebase, identify the actual root cause,
+> implement the smallest correct solution, test it, and leave the
+> system better than I found it.**
 
 ---
 
-## 🌍 Open-Source Contributions
+# 🔬 Projects I Build
 
-I also contribute fixes and improvements to established open-source projects,
-including:
+Alongside client projects and open-source contributions, I build
+developer tools focused on correctness, reproducibility and software
+reliability.
 
-**Symfony • Strapi**
+| Project | What It Solves |
+|---|---|
+| **[api-verity-lab](https://github.com/webdevsamran/api-verity-lab)** | API contract governance, compatibility analysis, schema-driven testing, runtime drift detection, traffic replay and performance regression across OpenAPI, AsyncAPI, GraphQL and gRPC. |
+| **[devrepro-doctor](https://github.com/webdevsamran/devrepro-doctor)** | Diagnoses "works on my machine" problems using environment inspection, reproducibility snapshots, machine comparison and safe repair recommendations. |
+| **[tooltrace-bench](https://github.com/webdevsamran/tooltrace-bench)** | Reproducible benchmarking of AI agents using deterministic execution traces and real tool-use workflows. |
+| **[local-ai-hardware-bench](https://github.com/webdevsamran/local-ai-hardware-bench)** | Vendor-neutral benchmarking of local AI runtimes across CPUs, GPUs, NPUs and edge accelerators. |
 
-Working with large open-source codebases helps sharpen the same skills that
-matter in client projects: understanding unfamiliar systems, debugging complex
-problems, writing maintainable changes and respecting backwards compatibility.
+These projects reflect how I approach commercial development:
 
----
-
-## ✅ How I Work
-
-For client projects, my usual workflow is:
-
-**Understand the business requirement → design the solution → build →
-test → deploy → monitor → improve**
-
-I care about:
-
-- Clean and maintainable architecture
-- Clear communication
-- Reliable delivery
-- Secure development
-- Performance
-- Testing
-- Data integrity
-- Long-term maintainability
-- Documentation
-- Avoiding unnecessary complexity
-
-My goal isn't simply to make a feature work today.
-
-It's to build it so that it can still be understood, maintained and extended
-months or years later.
+**verify assumptions • automate repetitive checks • test failure paths •
+measure performance • document behavior • avoid guessing**
 
 ---
 
-## 🤝 Looking for a Developer?
+## ✅ What You Can Expect When Working With Me
 
-I'm available for freelance and contract work involving:
+I approach client projects as engineering projects, not just coding tasks.
 
-**PHP / Laravel • MERN • React • Node.js • WordPress • Shopify • SaaS •
-E-commerce • Custom Business Applications • APIs • Integrations**
+My typical workflow is:
 
-If you already have an application, I can also help with:
+**1. Understand the business problem**  
+Before writing code, I understand what the feature or application
+actually needs to accomplish.
 
-**bug fixing • feature development • performance optimization • API
-integration • refactoring • modernization • technical troubleshooting**
+**2. Design the solution**  
+I choose an architecture and technology approach that fits the project
+rather than adding unnecessary complexity.
 
-### 📩 Let's Talk
+**3. Build incrementally**  
+Features are implemented in manageable, testable pieces.
 
-Tell me:
+**4. Test the important paths**  
+I verify normal behavior, edge cases and failure conditions.
 
-1. What you're building
-2. What technology you're currently using
-3. The problem you need solved
-4. Your target timeline
+**5. Deploy carefully**  
+Configuration, databases, APIs and production behavior are considered
+part of the implementation.
 
-📧 **samranwebdev2000@gmail.com**
+**6. Make future changes easier**  
+Readable architecture, maintainable code and useful documentation matter
+after the initial project is finished.
+
+---
+
+# 🤝 Need a Developer?
+
+I'm available for **freelance and contract development**.
+
+I can help if you need someone to:
+
+- Build a new web application
+- Build or extend a SaaS product
+- Develop a Laravel/PHP application
+- Develop a React/MERN application
+- Build or customize a WordPress website
+- Build or customize a Shopify store
+- Add features to an existing product
+- Integrate third-party APIs
+- Fix difficult bugs
+- Improve application performance
+- Refactor legacy code
+- Build an admin dashboard
+- Design backend APIs
+- Modernize an existing application
+- Take an unfinished project to production
+
+### 📩 Have a Project in Mind?
+
+Send me:
+
+**What you're building • what currently exists • what problem needs
+solving • your target timeline**
+
+📧 **[samranwebdev2000@gmail.com](mailto:samranwebdev2000@gmail.com)**
 
 💼 **[Connect with me on LinkedIn](https://www.linkedin.com/in/samran-php-wordpress-mern-website-developer/)**
 
 ---
 
-> **Building software is only half the job. Building software that remains
-> reliable, understandable and maintainable is the part I care about most.**
+<p align="center">
+<b>Available for freelance • contract • product development • long-term collaboration</b>
+</p>
+
+<p align="center">
+PHP/Laravel • React/Node.js • WordPress • Shopify • SaaS • APIs • E-commerce
+</p>
